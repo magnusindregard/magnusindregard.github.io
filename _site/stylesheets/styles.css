@@ -27,7 +27,6 @@ section {
 }
 
 h1, h2 {
-  color:#222;
   margin:0 0 20px;
 }
 
@@ -348,8 +347,9 @@ footer {
 body {
   color: black;
 }
-h1, h2 {
+h1, h2, h2 a {
   color: #990ae3;
+  font-weight: bold
 }
 
 .heading {
