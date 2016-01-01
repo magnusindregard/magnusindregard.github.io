@@ -2,9 +2,10 @@
 published: false
 template: default
 layout: default
-title: New post in prose
+title: New post
 date: 2016-01-01T00:00:00.000Z
 ---
+
 
 ## A New Post
 
