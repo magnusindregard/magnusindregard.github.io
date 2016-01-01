@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Insert your idea here"
-date: 2015-12-29
+title: Insert your idea here
+date: 2015-12-29T00:00:00.000Z
+published: true
 ---
+
 
 ## [ Insert your idea here ]
 Innovation Days is about the ideas YOU have, which can take TeliaSonera one step closer to being the Next Generation Telco. The ideas submitted can be about anything, but they should
@@ -13,3 +15,7 @@ Innovation Days is about the ideas YOU have, which can take TeliaSonera one step
 * Be realistic
 
 (Skjema for å sende inn idé)
+
+Testing some content editing with prose.io down here. Hoped that it would be even more **wysiwyg** than _this_, but you can't get everything. Let's try inserting an image:
+![Test image]({{site.baseurl}}/assets/images/logo.png)
+
