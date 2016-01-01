@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 template: default
 layout: default
 title: New post
