@@ -1,7 +1,7 @@
 ---
 published: true
 template: default
-layout: default
+layout: post
 title: New post
 date: 2016-01-01T00:00:00.000Z
 ---
