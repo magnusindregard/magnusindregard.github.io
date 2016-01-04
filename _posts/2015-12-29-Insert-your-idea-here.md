@@ -15,7 +15,3 @@ Innovation Days is about the ideas YOU have, which can take TeliaSonera one step
 * Be realistic
 
 (Skjema for å sende inn idé)
-
-Testing some content editing with prose.io down here. Hoped that it would be even more **wysiwyg** than _this_, but you can't get everything. Let's try inserting an image:
-![Test image]({{site.baseurl}}/assets/images/logo.png)
-
