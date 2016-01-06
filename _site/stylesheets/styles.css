@@ -199,7 +199,7 @@ img {
   width: 100%;
 }
 
-.grid-12 p, .grid-12 ol, .grid-12 ul, .grid-12 h1 {
+.grid-12 p, .grid-12 ol, .grid-12 ul, .grid-12 h1, .grid-12 h2, .grid-12 h3, .grid-12 h4 {
   max-width: 650px;
   margin: 0 auto 20px;
 }
@@ -247,7 +247,7 @@ img {
     padding: 20px 50px;
 }
 
-#post-content h1, #post-content h2, #post-content h3, #post-content h4 {
+#post-content h1, #post-content h2, #post-content h3, #post-content h4, .post-content h1, .post-content h2, .post-content h3, .post-content h4 {
     text-align: left;
 }
 
