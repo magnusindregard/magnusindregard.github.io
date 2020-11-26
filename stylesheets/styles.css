@@ -25,14 +25,14 @@ h1, h2, h2 a, nav a {
 }
 
 .heading.purple {
-    background: #990ae3;
+    background: #dedede;
 }
 
 .nav {
   background: #fff;
 }
 
-nav { 
+nav {
   text-align: center;
 }
 
@@ -258,7 +258,7 @@ img {
 
 #breadcrumbs li {
     list-style-type: none;
-    float: left; 
+    float: left;
     margin-right: 10px;
 }
 
@@ -374,4 +374,3 @@ textarea {
     color:#444;
   }
 }
-

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: The main event
 date: 2016-01-04T00:00:00.000Z
@@ -16,7 +16,7 @@ All participants who have submitted ideas will have a few minutes on stage to se
 All participants vote for their favorite ideas.
 
 ### 3. Make groups
-When 
+When
 
 ### 4. Start working
 
@@ -27,4 +27,3 @@ When
 ### 2. Presentations
 
 ### 3. Awards
-
